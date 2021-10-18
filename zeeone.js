@@ -72,7 +72,7 @@ alpha.on('group-participants-update', async (anu) => {
 • Name : 
 • Askot :
 • Umur : 
-• Member : _${memeg}_${enter} -[BEE SMART BUYYER]-
+• Member : _${memeg}_${enter} -[BEE SMART BUYYER]-`
         buff = await getBuffer(pp_user)
          buttons = [
           { buttonId: `welcomenya`, buttonText: { displayText: "Welcome 👋" }, type: 1 }
