@@ -109,7 +109,7 @@ alpha.on('group-participants-update', async (anu) => {
         out = `Sayonaraa👋`
         buff = await getBuffer(pp_user);
           buttons = [
-          { buttonId: `leavenya`, buttonText: { displayText: "Goodbye 👋" }, type: 1 },
+          { buttonId: `leavenya`, buttonText: { displayText: "Sayonaraa 👋" }, type: 1 },
         ];
         imageMsg = (
           await alpha.prepareMessageMedia(buff, "imageMessage", {
