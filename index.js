@@ -1010,7 +1010,7 @@ if (subscribezeeoneofc == 'welcomenya') {
  Semoga betah ya kak dan patuhi rules grub kami :)`)
 	}
 if (subscribezeeoneofc == 'leavenya') {
-	reply(`Goodbye buat yang pergi😔
+	reply('Sayonara buat yang pergi😔
  Semoga amal ibadahnya di terima :)`)
 	}
 if (subscribezeeoneofc == 'instagramku') {
