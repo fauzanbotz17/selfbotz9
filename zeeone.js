@@ -72,7 +72,8 @@ alpha.on('group-participants-update', async (anu) => {
 • Name : 
 • Askot :
 • Umur : 
-• Member : _${memeg}_${enter} -[BEE SMART BUYYER]-`
+• Member : _${memeg}_${enter}
+-[BEE SMART BUYYER✨]-`
         buff = await getBuffer(pp_user)
          buttons = [
           { buttonId: `welcomenya`, buttonText: { displayText: "Welcome 👋" }, type: 1 }
@@ -105,7 +106,7 @@ alpha.on('group-participants-update', async (anu) => {
         pp_user =
           "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60";
       }
-        out = `Goodbye`
+        out = `Sayonaraa👋`
         buff = await getBuffer(pp_user);
           buttons = [
           { buttonId: `leavenya`, buttonText: { displayText: "Goodbye 👋" }, type: 1 },
